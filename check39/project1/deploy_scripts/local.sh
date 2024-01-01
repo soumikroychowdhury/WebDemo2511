@@ -1,0 +1,1 @@
+ssh -t -i "key.cer" ubuntu@url "sudo bash ~/deploy.sh"
